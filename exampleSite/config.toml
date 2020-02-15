@@ -22,8 +22,8 @@ name = "Home"
 weight = 1
 [[menu.main]]
 URL = "#about"
-name = "About me"
-weight = 2
+name = "About"
+weight = 20
 [[menu.main]]
 URL = "#service"
 name = "Service"
