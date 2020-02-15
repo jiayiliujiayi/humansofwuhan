@@ -1,12 +1,12 @@
 ########################## hero area ##########################
 hero:
-  title : "I'm Somrat Sorkar"
+  title : "HUMANS OF WUHAN"
 
   # animated text loop
   occupations:
-    - "Web Developer"
-    - "Graphic Designer"
-    - "Database Manager"
+    - "SOME TEXT HERE"
+    - "AND HERE"
+    - "AND HERE HERE"
 
   # slider background image loop
   slider_image:
@@ -17,7 +17,7 @@ hero:
   # button
   button:
     enable : true
-    label : "HIRE ME"
+    label : "JOIN US"
     link : "#contact"
 
 
@@ -25,8 +25,8 @@ hero:
 fullscreen_nav:
   enable : true
   bg_image : "images/backgrounds/full-nav-bg.jpg"
-  first_name : "MacGyver"
-  last_name : "SOMRAT"
+  first_name : ""
+  last_name : "HUMANS OF WUHAN"
   
 
 ########################### About ##################################
