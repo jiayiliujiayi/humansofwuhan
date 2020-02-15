@@ -4,9 +4,9 @@ hero:
 
   # animated text loop
   occupations:
-    - "Web Developer"
-    - "Graphic Designer"
-    - "Database Manager"
+    - "some.text.here"
+    - "or.leave.blank"
+    - "[      ]likethis"
 
   # slider background image loop
   slider_image:
