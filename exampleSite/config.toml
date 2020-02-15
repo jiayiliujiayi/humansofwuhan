@@ -9,13 +9,13 @@ home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.fr]
-contentDir = "content/french"
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
+#[Languages.fr]
+#contentDir = "content/french"
+#copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
+#home = "Accueil"
+#languageCode = "fr-fr"
+#languageName = "Fr"
+3weight = 2
 [[menu.main]]
 URL = "#home"
 name = "Home"
@@ -41,7 +41,7 @@ URL = "#contact"
 name = "Contact"
 weight = 6
 [params]
-author = "somrat"
+author = "humansofwuhan"
 contact_form_action = ""
 description = "This is meta description"
 google_analitycs_id = ""
