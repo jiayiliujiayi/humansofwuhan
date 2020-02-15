@@ -17,7 +17,7 @@ hero:
   # button
   button:
     enable : true
-    label : "HIRE ME"
+    label : "JOIN US"
     link : "#contact"
 
 
