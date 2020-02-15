@@ -84,16 +84,16 @@ enable = true
 preloader = "images/preloader.gif"
 [[params.social]]
 icon = "fa-facebook-f"
-link = "https://www.facebook.com/somrat.mac"
+link = "https://www.facebook.com/humansofwuhan/"
 [[params.social]]
 icon = "fa-twitter"
-link = "https://twitter.com/somrat_37"
+link = "https://twitter.com/humansofwuhan"
 [[params.social]]
 icon = "fa-instagram"
-link = "https://www.instagram.com/somrat_sorkar/"
+link = "https://www.instagram.com/humansofwuhan/"
 [[params.social]]
 icon = "fa-github"
-link = "https://github.com/Somrat37"
-[[params.social]]
-icon = "fa-linkedin"
-link = "https://www.linkedin.com/in/somrat-sorkar-872581158/"
+link = "https://github.com/jiayiliujiayi/humansofwuhan"
+#[[params.social]]
+#icon = "fa-linkedin"
+#link = "https://www.linkedin.com/in/somrat-sorkar-872581158/"
