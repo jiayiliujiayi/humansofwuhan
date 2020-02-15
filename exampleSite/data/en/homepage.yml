@@ -24,23 +24,11 @@ hero:
 
 ####################### Full screen navigation #####################
 fullscreen_nav:
-  enable : false
+  enable : true
   bg_image : "images/backgrounds/full-nav-bg.jpg"
   first_name : "MacGyver"
   last_name : "SOMRAT"
   
-
-########################### About ##################################
-about:
-  enable : true
-  image : "images/backgrounds/portrait.jpg"
-  title : "KNOW MORE <br> ABOUT ME"
-  content : "It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me............😊"
-  # button
-  button:
-    enable : true
-    label : "DOWNLOAD MY CV"
-    link : "#" # you can put your cv in static folder and give the path here.
 
 ###########################3 Experience ##############################
 experience:
@@ -275,7 +263,18 @@ funfacts:
     - name : "CUPS OF COFFEE"
       image : "images/icons/coffee.png"
       count : "150"
-
+      
+########################### About ##################################
+about:
+  enable : true
+  image : "images/backgrounds/portrait.jpg"
+  title : "KNOW MORE <br> ABOUT ME"
+  content : "It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me............😊"
+  # button
+  button:
+    enable : true
+    label : "DOWNLOAD MY CV"
+    link : "#" # you can put your cv in static folder and give the path here.
 
 ############################## contact ###########################
 contact:
