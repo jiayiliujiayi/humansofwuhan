@@ -1,10 +1,10 @@
 baseURL = "https://humansofwuhan.netlify.com"
 disableLanguages = []
 theme = "somrat"
-title = ""
+title = "HUMANS OF WUHAN"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
+copyright = "Copyright &copy; 2020 HUMANS OF WUHAN"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -15,31 +15,39 @@ weight = 1
 #home = "Accueil"
 #languageCode = "fr-fr"
 #languageName = "Fr"
-3weight = 2
+#weight = 2
 [[menu.main]]
 URL = "#home"
-name = "Home"
-weight = 1
+name = "HOME"
+weight = 10
+[[menu.main]]
+URL = "#stories"
+name = "STORIES"
+weight = 20
+[[menu.main]]
+URL = "#series"
+name = "SERIES"
+weight = 30
 [[menu.main]]
 URL = "#about"
 name = "About"
-weight = 20
-[[menu.main]]
-URL = "#service"
-name = "Service"
-weight = 3
-[[menu.main]]
-URL = "#portfolio"
-name = "Portfolio"
-weight = 4
-[[menu.main]]
-URL = "#testimonial"
-name = "Testimonial"
-weight = 5
-[[menu.main]]
-URL = "#contact"
-name = "Contact"
-weight = 6
+weight = 40
+#[[menu.main]]
+#URL = "#service"
+#name = "Service"
+#weight = 3
+#[[menu.main]]
+#URL = "#portfolio"
+#name = "Portfolio"
+#weight = 4
+#[[menu.main]]
+#URL = "#testimonial"
+#name = "Testimonial"
+#weight = 5
+#[[menu.main]]
+#URL = "#contact"
+#name = "Contact"
+#weight = 6
 [params]
 author = "humansofwuhan"
 contact_form_action = ""
