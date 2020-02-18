@@ -108,7 +108,7 @@ fullscreen_nav:
 
 ############################## call to action #########################
 call_to_action:
-  enable : true
+  enable : false
   bg_image : "images/backgrounds/need-service.jpg"
   title : "NEED A SERVICE?"
   button:
@@ -119,7 +119,7 @@ call_to_action:
 
 ############################# portfolio ################################
 portfolio:
-  enable : true
+  enable : false
   title : "PORTFOLIO"
   portfolio_list:
     # portfolio item loop
@@ -215,7 +215,7 @@ portfolio:
 
 ################################# Testimonial #########################33
 QUOTES:
-  enable : true
+  enable : false
   title : "TESTIMONIALS"
   testimonial_slider:
     # slider item loop
@@ -242,7 +242,7 @@ QUOTES:
 
 ######################### funfacts #############################3
 funfacts:
-  enable : true
+  enable : false
   funfacts_list:
     # funfacts item loop
     - name : "HANDS TO WORK"
@@ -279,4 +279,4 @@ about:
 ############################## contact ###########################
 contact:
   enable : true
-  title : "SAY HELLO!"
+  title : "LEAVE YOU THOUGHTS"
