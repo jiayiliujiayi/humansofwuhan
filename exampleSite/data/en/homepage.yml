@@ -55,25 +55,25 @@ fullscreen_nav:
 
 
 ############################### Skill #################################
-skill:
-  enable : true
-  title : "SKILL"
-  skill_list:
-    # skill item loop
-    - name : "Web Development"
-      parcentage : "98%"
+##skill:
+##  enable : true
+##  title : "SKILL"
+##  skill_list:
+##    # skill item loop
+##    - name : "Web Development"
+##      parcentage : "98%"
       
-    # skill item loop
-    - name : "Graphic Design"
-      parcentage : "85%"
+##    # skill item loop
+##    - name : "Graphic Design"
+##      parcentage : "85%"
       
-    # skill item loop
-    - name : "Database Management"
-      parcentage : "90%"
+##    # skill item loop
+##    - name : "Database Management"
+##      parcentage : "90%"
       
-    # skill item loop
-    - name : "Wordpress"
-      parcentage : "70%"
+##    # skill item loop
+##    - name : "Wordpress"
+##      parcentage : "70%"
 
 
 ################################### Service ##############################3
