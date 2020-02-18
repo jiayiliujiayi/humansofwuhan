@@ -273,8 +273,8 @@ about:
   # button
   button:
     enable : true
-    label : "DOWNLOAD MY CV"
-    link : "#" # you can put your cv in static folder and give the path here.
+    label : "JOIN US"
+    link : "mailto: humansofwuhan@gmail.com" # you can put your cv in static folder and give the path here.
 
 ############################## contact ###########################
 contact:
