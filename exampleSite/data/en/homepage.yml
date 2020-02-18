@@ -26,8 +26,8 @@ hero:
 fullscreen_nav:
   enable : true
   bg_image : "images/backgrounds/full-nav-bg.jpg"
-  first_name : "MacGyver"
-  last_name : "SOMRAT"
+  first_name : ""
+  last_name : "HUMANS OF WUHAN"
   
 
 ###########################3 Experience ##############################
