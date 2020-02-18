@@ -28,6 +28,29 @@ fullscreen_nav:
   bg_image : "images/backgrounds/full-nav-bg.jpg"
   first_name : ""
   last_name : "HUMANS OF WUHAN"
+
+########################### About ##################################
+stories:
+  enable: true
+  title: 'stories'
+  content: "add stories here"
+
+########################### About ##################################
+about:
+  enable : true
+  image : #"images/backgrounds/portrait.jpg"
+  title : "ABOUT US"
+  content : "During the Coronavirus outbreak in early 2020, millions of people’s lives were affected in Wuhan and other regions. Many of them documented what happened and how they coped during the time. Being Chinese living aboard, we are deeply empathetic to the hardships they are going through and at the same time greatly inspired by their resilience to the misfortunes and their love for each other. \n Believing in the power of stories, we are committed to translating the narratives of these ordinary people so that the rest of the world can hear their voices, see their tears, and applaud their courage."
+  # button
+  button:
+    enable : true
+    label : "JOIN US"
+    link : "mailto: humansofwuhan@gmail.com" # you can put your cv in static folder and give the path here.
+
+############################## contact ###########################
+contact:
+  enable : true
+  title : "LEAVE YOU THOUGHTS"
   
 
 ###########################3 Experience ##############################
@@ -55,60 +78,60 @@ fullscreen_nav:
 
 
 ############################### Skill #################################
-skill:
-  enable : true
-  title : "SKILL"
-  skill_list:
-    # skill item loop
-    - name : "Web Development"
-      parcentage : "98%"
+##skill:
+##  enable : true
+##  title : "SKILL"
+##  skill_list:
+##    # skill item loop
+##    - name : "Web Development"
+##      parcentage : "98%"
       
-    # skill item loop
-    - name : "Graphic Design"
-      parcentage : "85%"
+##    # skill item loop
+##    - name : "Graphic Design"
+##      parcentage : "85%"
       
-    # skill item loop
-    - name : "Database Management"
-      parcentage : "90%"
+##    # skill item loop
+##    - name : "Database Management"
+##      parcentage : "90%"
       
-    # skill item loop
-    - name : "Wordpress"
-      parcentage : "70%"
+##    # skill item loop
+##    - name : "Wordpress"
+##      parcentage : "70%"
 
 
 ################################### Service ##############################3
-service:
-  enable : true
-  title : "SERVICES"
-  service_list:
+## service:
+##  enable : true
+##  title : "SERVICES"
+##  service_list:
     # service item loop
-    - name : "Web Development"
-      image : "images/icons/web-development.png"
+##    - name : "Web Development"
+##      image : "images/icons/web-development.png"
       
-    # service item loop
-    - name : "Graphic Design"
-      image : "images/icons/graphic-design.png"
+##    # service item loop
+##    - name : "Graphic Design"
+##      image : "images/icons/graphic-design.png"
       
-    # service item loop
-    - name : "Database Management"
-      image : "images/icons/dbms.png"
+##    # service item loop
+##    - name : "Database Management"
+##      image : "images/icons/dbms.png"
       
-    # service item loop
-    - name : "Software Development"
-      image : "images/icons/software-development.png"
+##    # service item loop
+##    - name : "Software Development"
+##      image : "images/icons/software-development.png"
       
-    # service item loop
-    - name : "Digital Marketing"
-      image : "images/icons/marketing.png"
+##    # service item loop
+##    - name : "Digital Marketing"
+##      image : "images/icons/marketing.png"
       
-    # service item loop
-    - name : "Mobile App Development"
-      image : "images/icons/mobile-app.png"
+##    # service item loop
+##    - name : "Mobile App Development"
+##      image : "images/icons/mobile-app.png"
 
 
 ############################## call to action #########################
 call_to_action:
-  enable : true
+  enable : false
   bg_image : "images/backgrounds/need-service.jpg"
   title : "NEED A SERVICE?"
   button:
@@ -119,7 +142,7 @@ call_to_action:
 
 ############################# portfolio ################################
 portfolio:
-  enable : true
+  enable : false
   title : "PORTFOLIO"
   portfolio_list:
     # portfolio item loop
@@ -215,7 +238,7 @@ portfolio:
 
 ################################# Testimonial #########################33
 QUOTES:
-  enable : true
+  enable : false
   title : "TESTIMONIALS"
   testimonial_slider:
     # slider item loop
@@ -242,7 +265,7 @@ QUOTES:
 
 ######################### funfacts #############################3
 funfacts:
-  enable : true
+  enable : false
   funfacts_list:
     # funfacts item loop
     - name : "HANDS TO WORK"
@@ -264,19 +287,3 @@ funfacts:
       image : "images/icons/coffee.png"
       count : "150"
       
-########################### About ##################################
-about:
-  enable : true
-  image : #"images/backgrounds/portrait.jpg"
-  title : "ABOUT US"
-  content : "During the Coronavirus outbreak in early 2020, millions of people’s lives were affected in Wuhan and other regions. Many of them documented what happened and how they coped during the time. Being Chinese living aboard, we are deeply empathetic to the hardships they are going through and at the same time greatly inspired by their resilience to the misfortunes and their love for each other. \n Believing in the power of stories, we are committed to translating the narratives of these ordinary people so that the rest of the world can hear their voices, see their tears, and applaud their courage."
-  # button
-  button:
-    enable : true
-    label : "JOIN US"
-    link : "mailto: humansofwuhan@gmail.com" # you can put your cv in static folder and give the path here.
-
-############################## contact ###########################
-contact:
-  enable : true
-  title : "SAY HELLO!"
