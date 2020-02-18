@@ -30,7 +30,7 @@ name = "SERIES"
 weight = 30
 [[menu.main]]
 URL = "#about"
-name = "About"
+name = "ABOUT"
 weight = 40
 #[[menu.main]]
 #URL = "#service"
