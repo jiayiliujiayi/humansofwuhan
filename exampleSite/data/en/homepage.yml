@@ -28,6 +28,29 @@ fullscreen_nav:
   bg_image : "images/backgrounds/full-nav-bg.jpg"
   first_name : ""
   last_name : "HUMANS OF WUHAN"
+
+########################### About ##################################
+stories:
+  enable: true
+  title: 'stories'
+  content: "add stories here"
+
+########################### About ##################################
+about:
+  enable : true
+  image : #"images/backgrounds/portrait.jpg"
+  title : "ABOUT US"
+  content : "During the Coronavirus outbreak in early 2020, millions of people’s lives were affected in Wuhan and other regions. Many of them documented what happened and how they coped during the time. Being Chinese living aboard, we are deeply empathetic to the hardships they are going through and at the same time greatly inspired by their resilience to the misfortunes and their love for each other. \n Believing in the power of stories, we are committed to translating the narratives of these ordinary people so that the rest of the world can hear their voices, see their tears, and applaud their courage."
+  # button
+  button:
+    enable : true
+    label : "JOIN US"
+    link : "mailto: humansofwuhan@gmail.com" # you can put your cv in static folder and give the path here.
+
+############################## contact ###########################
+contact:
+  enable : true
+  title : "LEAVE YOU THOUGHTS"
   
 
 ###########################3 Experience ##############################
@@ -264,19 +287,3 @@ funfacts:
       image : "images/icons/coffee.png"
       count : "150"
       
-########################### About ##################################
-about:
-  enable : true
-  image : #"images/backgrounds/portrait.jpg"
-  title : "ABOUT US"
-  content : "During the Coronavirus outbreak in early 2020, millions of people’s lives were affected in Wuhan and other regions. Many of them documented what happened and how they coped during the time. Being Chinese living aboard, we are deeply empathetic to the hardships they are going through and at the same time greatly inspired by their resilience to the misfortunes and their love for each other. \n Believing in the power of stories, we are committed to translating the narratives of these ordinary people so that the rest of the world can hear their voices, see their tears, and applaud their courage."
-  # button
-  button:
-    enable : true
-    label : "JOIN US"
-    link : "mailto: humansofwuhan@gmail.com" # you can put your cv in static folder and give the path here.
-
-############################## contact ###########################
-contact:
-  enable : true
-  title : "LEAVE YOU THOUGHTS"
