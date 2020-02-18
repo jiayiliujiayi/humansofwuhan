@@ -29,7 +29,7 @@ fullscreen_nav:
   first_name : ""
   last_name : "HUMANS OF WUHAN"
 
-########################### About ##################################
+########################### Stories ##################################
 stories:
   enable: true
   title: 'stories'
@@ -40,7 +40,9 @@ about:
   enable : true
   image : #"images/backgrounds/portrait.jpg"
   title : "ABOUT US"
-  content : "During the Coronavirus outbreak in early 2020, millions of people’s lives were affected in Wuhan and other regions. Many of them documented what happened and how they coped during the time. Being Chinese living aboard, we are deeply empathetic to the hardships they are going through and at the same time greatly inspired by their resilience to the misfortunes and their love for each other. \n Believing in the power of stories, we are committed to translating the narratives of these ordinary people so that the rest of the world can hear their voices, see their tears, and applaud their courage."
+  content : "During the Coronavirus outbreak in early 2020, millions of people’s lives were affected in Wuhan and other regions. Many of them documented what happened and how they coped during the time. Being Chinese living aboard, we are deeply empathetic to the hardships they are going through and at the same time greatly inspired by their resilience to the misfortunes and their love for each other. 
+
+  Believing in the power of stories, we are committed to translating the narratives of these ordinary people so that the rest of the world can hear their voices, see their tears, and applaud their courage."
   # button
   button:
     enable : true
